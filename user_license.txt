@@ -1,0 +1,3 @@
+create;SAMPLE_pnl0ew4e;Somebody That I used to know;someone_new@somewhere.nl;Yellow;[Internal_Communication_Yellow Belt,Distributie & Transport Yellow,Supply Chain Yellow]
+pnl_correction;SAMPLE_ede24105;Somebody everybody used to know;someone_else@somewhere.nl;Green;[Internal_Communication_Green Belt,Distributie & Transport Green,Supply Chain Green]
+blue_belt_intake;SAMPLE_pnl0ew6g;Somebody nobody used to know;someone_creating@somewhere.nl;Blue;[Internal_Communication_Blue Belt,Distributie & Transport Blue,Supply Chain Blue]
